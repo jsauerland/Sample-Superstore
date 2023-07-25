@@ -22,11 +22,31 @@ With the data loaded into Power BI, I set out creating the entire dashboard.
 
 I started out with a simple 'Monthly Orders' visual that would show orders per month, and would feature a neat average line. 
 
-- Bullet 1
--- Create a Clustered Column Chart
--- Drag Month of Order Date to X-Axis
-
-The result is a very clean and clear looking chart: 
+- **Viz 1**
+-  Create a Clustered Column Chart, and drag Month of Order Date to X-Axis and Order ID to Y-Axis
+-  Add an Average Line based on Order ID, color to White 50% darker, and line style to Dotted
+-  Turn Average Line Data Label on, set to 0 decimal places
+-  Set title to 'Monthly Orders'
 
 ![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/7356ec3d-2c2c-4af7-81c2-705a4f642483)
+
+- **Viz 2**
+-  Create a Stacked Column Chart, and drag segment to X-Axis, Sales to Y-Axis, Category to legend
+-  Under 'Format your visual' go to Legend, and turn title off. Set alignment to center, font to Din 20, white 50% darker
+-  Set title to 'Sales by Segment'
+
+![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/beb1a3f7-1501-4e3a-8d4b-51df4dee9fc8)
+
+
+- **Viz 3**
+- Create an Area Chart, and drag Month to X-axis, Sales to Y-Axis
+- Under 'Format your visual' go to Lines > Colors > change Sum of Sales to one of the 'Theme color _ 60% lighter' options depending on your design theme
+- Add an Average Line based on Sales, color to White 50% darker, and line style to Dotted
+- Turn Average Line Data Label on, set to 0 decimal places
+- Set title to 'Monthly Sales'
+
+
+
+![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/5d918b61-7cc5-4924-9021-0781cea13da1)
+
 
