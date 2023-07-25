@@ -94,6 +94,4 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 
 ------
 
-### Enhancing the Dashboard
 
-Using Python, I will be enhancing this dashboard.
