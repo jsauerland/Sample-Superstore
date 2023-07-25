@@ -22,7 +22,7 @@ With the data loaded into Power BI, I set out creating the entire dashboard.
 
 I started out with a simple 'Monthly Orders' visual that would show orders per month, and would feature a neat average line. 
 
--
+- Bullet 1
 -- Create a Clustered Column Chart
 -- Drag Month of Order Date to X-Axis
 
