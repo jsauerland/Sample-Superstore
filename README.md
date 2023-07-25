@@ -13,4 +13,5 @@ The data for Tableau's Sample Superstore is hosted on [this website](https://dat
 With the data loaded into Power BI, I set out creating the entire dashboard. 
 
 The result is a very clean and clear looking chart: 
+
 ![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/7356ec3d-2c2c-4af7-81c2-705a4f642483)
