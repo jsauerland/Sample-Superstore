@@ -1,2 +1,3 @@
-# Sample-Superstore
-Exercise project using Sample Superstore data to create a public dashboard
+# Sample Superstore Data Project
+
+A project to create a public dashboard for analyzing Sales Performance of the Superstore dataset from Tableau
