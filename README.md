@@ -75,3 +75,25 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Go to Filters > Top N and clear it out
 - Set a new filter for Top N > 10 City by Profit
 - Adjust the title to 'Top 10 Cities by Profit'
+
+![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/df45b16e-ff3d-4899-9516-0d3ef1bd06d2)
+
+##### Step 4: Formatting the Dashboard
+
+- Adjust all the vizzes so they're the same size. Easy way to do this is to simply go to Format Visual > Properties > Size. Set them all exact same Height and Width
+- CTRL+click the top 3 visuals and go to Format > Align > Distribute Horizontally. Do the same with the bottom 3. 
+- Insert shape, choose a line. Drag to the middle of the dashboard and use it to separate top 3 from bottom 3
+- Click the line and go to Format > Shape > Style > Border. Set it to White 60% darker, transparency 80%. Adjust to your liking. More transparency makes it grayer and more faded
+- Insert another line (or copy the first), and change Rotation to 90 degrees so it's vertical, and use it to separate into columns. Two lines will be needed for this
+- Fine tune and adjust the positioning
+
+  
+##### Final Result
+
+![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/ff12ddf7-3c1f-4843-b457-48ba64c97264)
+
+------
+
+### Enhancing the Dashboard
+
+Using Python, I will be enhancing this dashboard.
