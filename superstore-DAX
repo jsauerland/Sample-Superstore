@@ -14,3 +14,6 @@ MTD Sales =
                     'DateTable'[Date] <= MAX ( 'DateTable'[Date] ) 
        )
     )
+
+
+Prior Year Profit = CALCULATE ( [Profit], SAMEPERIODLASTYEAR'DateTable'[DateColumn] )
