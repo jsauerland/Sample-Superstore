@@ -59,7 +59,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set title to 'Top _ Products by sales' based on Top N value. Mine was 10
 - Copy the entire visual, and paste it to the right of it to create next visual
 
-  ![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/3ccc4ccb-088f-42f9-98e0-145d53a71427)
+  ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps4.PNG?raw=true)
 
 
 - **Viz 5**
