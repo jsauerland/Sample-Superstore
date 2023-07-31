@@ -28,7 +28,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Turn Average Line Data Label on, set to 0 decimal places
 -  Set title to 'Monthly Orders'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/7356ec3d-2c2c-4af7-81c2-705a4f642483)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps1.PNG?raw=true)
 
 - **Viz 2**
 -  Create a Stacked Column Chart, and drag segment to X-Axis, Sales to Y-Axis, Category to legend
