@@ -68,7 +68,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Adjust the title to 'Top 10 Products by Profit'
 - Copy the entire visual, and paste it to the right of it to create next visual
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/284384d9-9081-48a6-877f-536eb59f9282)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps5.PNG?raw=true)
 
 - **Viz 6**
 - Replace Product Name on Y-axis with City
