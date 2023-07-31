@@ -90,7 +90,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
   
 ##### Final Result
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/ff12ddf7-3c1f-4843-b457-48ba64c97264)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps7.PNG?raw=true)
 
 ------
 
