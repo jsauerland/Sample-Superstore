@@ -49,7 +49,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 
 
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/5d918b61-7cc5-4924-9021-0781cea13da1)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps3.PNG?raw=true)
 
 - **Viz 4**
 - Create a Clustered Bar Chart, and add Product Name to Y-axis, Sales to X-Axis
