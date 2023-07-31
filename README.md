@@ -28,7 +28,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Turn Average Line Data Label on, set to 0 decimal places
 -  Set title to 'Monthly Orders'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/7356ec3d-2c2c-4af7-81c2-705a4f642483)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps1.PNG?raw=true)
 
 - **Viz 2**
 -  Create a Stacked Column Chart, and drag segment to X-Axis, Sales to Y-Axis, Category to legend
@@ -36,7 +36,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Set Data labels > Display units to thousands. This helps it look better. 7648 vs 7k
 -  Set title to 'Sales by Segment'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/beb1a3f7-1501-4e3a-8d4b-51df4dee9fc8)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps2.PNG?raw=true)
 
 
 - **Viz 3**
@@ -49,7 +49,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 
 
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/5d918b61-7cc5-4924-9021-0781cea13da1)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps3.PNG?raw=true)
 
 - **Viz 4**
 - Create a Clustered Bar Chart, and add Product Name to Y-axis, Sales to X-Axis
@@ -59,7 +59,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set title to 'Top _ Products by sales' based on Top N value. Mine was 10
 - Copy the entire visual, and paste it to the right of it to create next visual
 
-  ![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/3ccc4ccb-088f-42f9-98e0-145d53a71427)
+  ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps4.PNG?raw=true)
 
 
 - **Viz 5**
@@ -68,7 +68,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Adjust the title to 'Top 10 Products by Profit'
 - Copy the entire visual, and paste it to the right of it to create next visual
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/284384d9-9081-48a6-877f-536eb59f9282)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps5.PNG?raw=true)
 
 - **Viz 6**
 - Replace Product Name on Y-axis with City
@@ -76,7 +76,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set a new filter for Top N > 10 City by Profit
 - Adjust the title to 'Top 10 Cities by Profit'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/df45b16e-ff3d-4899-9516-0d3ef1bd06d2)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps6.PNG?raw=true)
 
 ##### Step 4: Formatting the Dashboard
 
