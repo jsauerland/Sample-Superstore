@@ -76,7 +76,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set a new filter for Top N > 10 City by Profit
 - Adjust the title to 'Top 10 Cities by Profit'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/df45b16e-ff3d-4899-9516-0d3ef1bd06d2)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps6.PNG?raw=true)
 
 ##### Step 4: Formatting the Dashboard
 
