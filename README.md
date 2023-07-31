@@ -28,6 +28,8 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Turn Average Line Data Label on, set to 0 decimal places
 -  Set title to 'Monthly Orders'
 
+
+
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps1.PNG?raw=true)
 
 - **Viz 2**
@@ -35,6 +37,8 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Under 'Format your visual' go to Legend, and turn title off. Set alignment to center, font to Din 20, white 50% darker
 -  Set Data labels > Display units to thousands. This helps it look better. 7648 vs 7k
 -  Set title to 'Sales by Segment'
+
+
 
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps2.PNG?raw=true)
 
@@ -51,6 +55,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps3.PNG?raw=true)
 
+
 - **Viz 4**
 - Create a Clustered Bar Chart, and add Product Name to Y-axis, Sales to X-Axis
 - Under 'Filters', go to 'Product Name', select Top N = 10, drag sales to the 'Value' section
@@ -58,6 +63,8 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set Data labels > Display units to thousands
 - Set title to 'Top _ Products by sales' based on Top N value. Mine was 10
 - Copy the entire visual, and paste it to the right of it to create next visual
+
+
 
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps4.PNG?raw=true)
 
@@ -68,6 +75,8 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Adjust the title to 'Top 10 Products by Profit'
 - Copy the entire visual, and paste it to the right of it to create next visual
 
+
+
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps5.PNG?raw=true)
 
 - **Viz 6**
@@ -76,7 +85,10 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Set a new filter for Top N > 10 City by Profit
 - Adjust the title to 'Top 10 Cities by Profit'
 
+
+
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps6.PNG?raw=true)
+
 
 ##### Step 4: Formatting the Dashboard
 
