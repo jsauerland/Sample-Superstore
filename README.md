@@ -36,7 +36,7 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 -  Set Data labels > Display units to thousands. This helps it look better. 7648 vs 7k
 -  Set title to 'Sales by Segment'
 
-![image](https://github.com/jsauerland/Sample-Superstore/assets/32148757/beb1a3f7-1501-4e3a-8d4b-51df4dee9fc8)
+![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps2.PNG?raw=true)
 
 
 - **Viz 3**
