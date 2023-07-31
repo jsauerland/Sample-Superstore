@@ -67,7 +67,6 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Replace the field in Top N filter with Profit instead of sales
 - Adjust the title to 'Top 10 Products by Profit'
 - Copy the entire visual, and paste it to the right of it to create next visual
-
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps5.PNG?raw=true)
 
 - **Viz 6**
@@ -75,7 +74,6 @@ I started out with a simple 'Monthly Orders' visual that would show orders per m
 - Go to Filters > Top N and clear it out
 - Set a new filter for Top N > 10 City by Profit
 - Adjust the title to 'Top 10 Cities by Profit'
-
   ![image](https://github.com/jsauerland/Sample-Superstore/blob/main/sps6.PNG?raw=true)
 
 ##### Step 4: Formatting the Dashboard
