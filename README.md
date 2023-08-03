@@ -6,7 +6,7 @@ One thing I really enjoy doing is visualizing data. In this project, I created a
 ##### Step 1: Acquiring and loading the data
 
 The data for Tableau's Sample Superstore is hosted on [this website](https://datawonders.atlassian.net/wiki/spaces/TABLEAU/blog/2022/10/26/1953431553/Where+Can+I+Find+Superstore+Sales#Workbooks-and-Data-Sources). This website was provided by Tableau's community team, and is perfectly safe.
-
+  
 There's nothing crazy about this dataset, so it's easy to just open up Power BI, and load it in by importing it as Excel file
 
 ##### Step 2 (optional): Creating a mockup
